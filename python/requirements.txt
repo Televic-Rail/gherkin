@@ -5,5 +5,5 @@ pytest >= 5.0; python_version >= '3.0'
 # pytest-html
 
 # -- FOR DEVELOPMENT:
-# tox
-# coverage >= 4.2
+tox
+coverage >= 4.2
